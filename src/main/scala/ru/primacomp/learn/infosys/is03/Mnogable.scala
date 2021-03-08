@@ -41,10 +41,10 @@ trait Mnogable[T, E <: Oshibkable] {
   }
 
   def printBuff():Unit = {
-    println(s"-----${this.hashCode()}-----")
+    //println(s"-----${this.hashCode()}-----")
     for(x <- buff){
-      print(x+",")
+      print(x)
     }
-    println("-----------")
+    println()
   }
 }

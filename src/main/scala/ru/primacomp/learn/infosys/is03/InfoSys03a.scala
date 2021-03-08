@@ -36,13 +36,12 @@ class InfoSys03a() {
     while(stkDg.hasNext()){
       val curr = stkDg.head()
       if(digits.contains(curr)){
-        println(s"${curr} => ${curr.toInt}")
         stkRn.push((""+curr).toInt)
       } else {
         stkRn.oper(curr)
       }
     }
-    stkRn.printBuff()
+    //stkRn.printBuff()
     stkRn.pop()
   }
 }
