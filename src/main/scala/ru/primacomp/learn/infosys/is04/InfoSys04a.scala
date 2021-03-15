@@ -6,14 +6,22 @@ class InfoSys04a {
   val opers = List('-', '+', '/', '*')
 
   def start(pStr: String): Int = {
-
-    for(c <- pStr if digits.contains(c) || opers.contains(c))yield{
-      println(c)
-
-    }
-    42
-
+    calc(
+      toRPN(
+        getUserInput()))
   }
 
+  def getUserInput():String={
+    "( 1 + 2 ) + 4 * 3 "
+  }
+
+  def toRPN(pStr:String):List[Char]={
+    var r = List[Char]('1','2','3','4')
+    r
+  }
+
+  def calc(pStr:List[Char])={
+    0
+  }
 
 }
