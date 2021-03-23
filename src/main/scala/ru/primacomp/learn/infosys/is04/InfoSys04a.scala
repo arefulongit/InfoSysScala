@@ -8,24 +8,33 @@ class InfoSys04a {
 
   final val digits = List('0', '1', '2', '3', '4', '5', '6', '7', '8', '9')
   final val opers = List('-', '+', '/', '*')
+  final val funcIn = inputString("")
+  final val funcOutStr = outputString("")
+  final val funcOutInt = outputString(0)
 
-  def start(): Int = {
-
-    val getUserInput = () => {
-      readLine("Введите выражение:")
-    }
-
-    calc(
-      toRPN(
-        getUserInput()
-          .filter(ch => ch != ' ')
-          .toList
+  def start(): Unit = {
+    funcOutInt(
+      calc(
+        toRPN(
+          funcIn("Введите выражение")
+            .filter(ch => ch != ' ')
+            .toList
+        )
       )
     )
   }
 
+  def inputString(pPrompt: String): (String => String) = {
+    pPrompt => readLine(pPrompt)
+  }
+
+  def outputString[A](pMsg: A): (A => Unit) = {
+    pMsg => println(pMsg)
+  }
+
   def toRPN(pUserInputStack: List[Char], pRpnStack: List[Char] = Nil, pOperationStack: List[Char] = Nil): List[Char] = {
-    println(s"toRPN() pUserInputStack:${pUserInputStack} pRpnStack: ${pRpnStack} pOperationStack: ${pOperationStack}")
+    funcOutStr(s"toRPN() pUserInputStack:${pUserInputStack} pRpnStack: ${pRpnStack} pOperationStack: ${pOperationStack}")
+    //println(s"toRPN() pUserInputStack:${pUserInputStack} pRpnStack: ${pRpnStack} pOperationStack: ${pOperationStack}")
     if (pUserInputStack.isEmpty) {
       return copyFromListToListWhileNotDelimiterOrError(pRpnStack, pOperationStack, '_')
     }
@@ -45,7 +54,7 @@ class InfoSys04a {
 
 
   def copyFromListToListWhileNotDelimiterOrError(pList1: List[Char], pList2: List[Char], pDelimiter: Char): List[Char] = {
-    println(s"listToList() pList1=${pList1} pList2=${pList2}")
+    funcOutStr(s"listToList() pList1=${pList1} pList2=${pList2}")
     if (pList2.isEmpty) {
       return pList1
     }
@@ -59,7 +68,7 @@ class InfoSys04a {
   }
 
   def calc(pRpnStack: List[Char], pCalcStack: List[Int] = Nil): Int = {
-    println(s"calc() pRpnStack=${pRpnStack} pCalcStack=${pCalcStack}")
+    funcOutStr(s"calc() pRpnStack=${pRpnStack} pCalcStack=${pCalcStack}")
     if (pRpnStack.isEmpty) {
       return pCalcStack.head
     }

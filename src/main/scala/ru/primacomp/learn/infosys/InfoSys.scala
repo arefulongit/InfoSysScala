@@ -8,6 +8,6 @@ object InfoSys extends App {
   //println(infoSys03.start("( 1 + 2 ) + 4 * 3 "))
 
   val infoSys04 = new InfoSys04a()
-  println(infoSys04.start())
+  infoSys04.start()
 }
 
