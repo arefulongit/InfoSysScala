@@ -21,19 +21,25 @@ class InfoSys04Test extends FlatSpec with Matchers {
 
   val inList3, memList3:List[Char] = List('(','1','+','2',')')
   val expList3:List[Char] = List[Char]('1','2','+')
-  val actList3:List[Char] = p1.toRPN(inList3, Nil, Nil)
+  val actList3:List[Char] = p1.toRPN(inList3)
   actList3 shouldEqual expList3
   inList3 shouldEqual  memList3
 
-  val inList4, memList4:List[Char] = List('(','1','+','2',')','+','4','*','3')
-  val expList4:List[Char] = List[Char]('1','2','+','4','3','*','+')
-  val actList4:List[Char] = p1.toRPN(inList3, Nil, Nil)
-  actList3 shouldEqual expList3
-  inList3 shouldEqual  memList3
+  val inList4, memList4:List[Char] = List('1','+','2')
+  val expList4:List[Char] = List[Char]('1','2','+')
+  val actList4:List[Char] = p1.toRPN(inList4)
+  actList4 shouldEqual expList4
+  inList4 shouldEqual  memList4
 
-  val inList5, memList5:List[Char] = List('1','2','+','4','3','*','+')
-  val expInt5:Int = 15
-  val actInt5:Int = p1.calc(inList5)
-  actInt5 shouldEqual expInt5
-  inList5 shouldEqual memList5
+  val inList9, memList9:List[Char] = List('(','1','+','2',')','+','4','*','3')
+  val expList9:List[Char] = List[Char]('1','2','+','4','3','*','+')
+  val actList9:List[Char] = p1.toRPN(inList9)
+  actList9 shouldEqual expList9
+  inList9 shouldEqual  memList9
+
+  val inList10, memList5:List[Char] = List('1','2','+','4','3','*','+')
+  val expInt10:Int = 15
+  val actInt10:Int = p1.calc(inList10)
+  actInt10 shouldEqual expInt10
+  inList10 shouldEqual memList5
 }
