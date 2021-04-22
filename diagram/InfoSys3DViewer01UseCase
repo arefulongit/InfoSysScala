@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T20:15:55.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="YTT0TosNv6o4aaL8QhKa" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T05:22:20.439Z" agent="5.0 (Linux; Android 10; AQM-LX1; HMSCore 5.2.0.324) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 HuaweiBrowser/11.0.6.305 Mobile Safari/537.36" etag="fNxg0kBFwl7pwltfvxfJ" version="14.6.3" type="github" pages="2">
   <diagram id="Ntc7WBoBdqxKaUXXZSDm" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="326" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
         <mxCell id="f8UGSz7HQUvAFuZWLpwf-2" value="Управлять сценой" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f8UGSz7HQUvAFuZWLpwf-4" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="f8UGSz7HQUvAFuZWLpwf-2" edge="1" source="QmSxWZKOASxOsJ5Wcc6K-1">
+        <mxCell id="f8UGSz7HQUvAFuZWLpwf-4" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="QmSxWZKOASxOsJ5Wcc6K-1" target="f8UGSz7HQUvAFuZWLpwf-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="360" as="sourcePoint" />
             <mxPoint x="200" y="280" as="targetPoint" />
@@ -73,7 +73,7 @@
             <mxPoint x="230" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8UGSz7HQUvAFuZWLpwf-26" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QmSxWZKOASxOsJ5Wcc6K-26" edge="1" target="QmSxWZKOASxOsJ5Wcc6K-1">
+        <mxCell id="f8UGSz7HQUvAFuZWLpwf-26" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QmSxWZKOASxOsJ5Wcc6K-26" target="QmSxWZKOASxOsJ5Wcc6K-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="610" as="sourcePoint" />
             <mxPoint x="150" y="410" as="targetPoint" />
@@ -91,7 +91,7 @@
             <mxPoint x="417.57359312880715" y="455.85786437626894" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X_xPtilx5rQNyc33pT00-5" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="f8UGSz7HQUvAFuZWLpwf-2" edge="1" target="02xShw5wt8kBJDCVwm3q-5">
+        <mxCell id="X_xPtilx5rQNyc33pT00-5" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="f8UGSz7HQUvAFuZWLpwf-2" target="02xShw5wt8kBJDCVwm3q-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="330" y="360" as="sourcePoint" />
             <mxPoint x="360" y="300" as="targetPoint" />
@@ -127,7 +127,7 @@
             <mxPoint x="757.5735931288071" y="375.85786437626894" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X_xPtilx5rQNyc33pT00-11" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QmSxWZKOASxOsJ5Wcc6K-33" edge="1" target="QmSxWZKOASxOsJ5Wcc6K-41">
+        <mxCell id="X_xPtilx5rQNyc33pT00-11" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QmSxWZKOASxOsJ5Wcc6K-33" target="QmSxWZKOASxOsJ5Wcc6K-41" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="400" y="580" as="sourcePoint" />
             <mxPoint x="440" y="580" as="targetPoint" />
@@ -136,143 +136,446 @@
         <mxCell id="X_xPtilx5rQNyc33pT00-12" value="Удалить источник" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="360" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-1" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmSxWZKOASxOsJ5Wcc6K-26" target="QmSxWZKOASxOsJ5Wcc6K-36">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-1" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QmSxWZKOASxOsJ5Wcc6K-26" target="QmSxWZKOASxOsJ5Wcc6K-36" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="720" y="720" as="sourcePoint" />
             <mxPoint x="817.573593128807" y="785.8578643762689" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-2" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmSxWZKOASxOsJ5Wcc6K-26" target="QmSxWZKOASxOsJ5Wcc6K-18">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-2" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QmSxWZKOASxOsJ5Wcc6K-26" target="QmSxWZKOASxOsJ5Wcc6K-18" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="670" y="710" as="sourcePoint" />
             <mxPoint x="767.573593128807" y="775.8578643762689" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-3" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmSxWZKOASxOsJ5Wcc6K-26" target="X_xPtilx5rQNyc33pT00-12">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-3" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QmSxWZKOASxOsJ5Wcc6K-26" target="X_xPtilx5rQNyc33pT00-12" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="650" y="720" as="sourcePoint" />
             <mxPoint x="747.573593128807" y="785.8578643762689" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-4" value="Запустить рендер" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-4" value="Запустить рендер" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="560" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-5" value="Изменить сцену" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;fillColor=#CDA2BE;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-5" value="Изменить сцену" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;fillColor=#CDA2BE;" parent="1" vertex="1">
           <mxGeometry x="360" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-9" value="&lt;div&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; vertical-align: baseline&quot;&gt;1. Загружать полигональные 3D-модели и сцены из файлов в формате&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/.3ds&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;3DS&lt;/span&gt;&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-9" value="&lt;div&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; vertical-align: baseline&quot;&gt;1. Загружать полигональные 3D-модели и сцены из файлов в формате&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/.3ds&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;3DS&lt;/span&gt;&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="40" y="680" width="480" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-10" value="&lt;font color=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;2. Просматривать загруженные 3D-модели и сцены из файлов на экране. Задача рендера моделей — работать через&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://stratum.ac.ru/education/textbooks/kgrafic/additional/addit21.html&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;алгоритм буфера глубины (Z-buffer)&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;. Важно также использовать&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://stratum.ac.ru/education/textbooks/kgrafic/lection04.html&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;перспективную проекцию&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;. Затенение от&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D1%81%D0%B2%D0%B5%D1%82%D0%B0#%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D1%81%D0%B2%D0%B5%D1%82%D0%B0_%D0%B2_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0%D1%85&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;источников света&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;должно осуществляться по&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://www.ixbt.com/video/light-model-gourad.html&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;алгоритму закраски Гуро&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-10" value="&lt;font color=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;2. Просматривать загруженные 3D-модели и сцены из файлов на экране. Задача рендера моделей — работать через&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://stratum.ac.ru/education/textbooks/kgrafic/additional/addit21.html&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;алгоритм буфера глубины (Z-buffer)&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;. Важно также использовать&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://stratum.ac.ru/education/textbooks/kgrafic/lection04.html&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;перспективную проекцию&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;. Затенение от&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D1%81%D0%B2%D0%B5%D1%82%D0%B0#%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D1%81%D0%B2%D0%B5%D1%82%D0%B0_%D0%B2_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0%D1%85&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;источников света&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;должно осуществляться по&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://www.ixbt.com/video/light-model-gourad.html&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;алгоритму закраски Гуро&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="40" y="760" width="480" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-11" value="&lt;font color=&quot;#cccccc&quot;&gt;3&amp;nbsp;&lt;span style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; vertical-align: baseline&quot;&gt;При этом пользователь должен иметь возможность при просмотре выполнять некоторые действия с камерой. Камера в этом контексте — совокупность позиции наблюдателя и направления его взгляда.&lt;/span&gt;&lt;a href=&quot;https://docs.google.com/document/d/1evQga04KTh4BFw5G-h9LKkjcdc-0_eYT4k9dFrsVKQk/edit&quot; style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;Перемещение (сдвиг) камеры&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; vertical-align: baseline&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://edu.mmcs.sfedu.ru/pluginfile.php/13172/mod_resource/content/11/3D%20%D0%90%D1%84%D1%84%D0%B8%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B5%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf&quot; style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;Вращение камеры&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; vertical-align: baseline&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-11" value="&lt;font color=&quot;#cccccc&quot;&gt;3&amp;nbsp;&lt;span style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; vertical-align: baseline&quot;&gt;При этом пользователь должен иметь возможность при просмотре выполнять некоторые действия с камерой. Камера в этом контексте — совокупность позиции наблюдателя и направления его взгляда.&lt;/span&gt;&lt;a href=&quot;https://docs.google.com/document/d/1evQga04KTh4BFw5G-h9LKkjcdc-0_eYT4k9dFrsVKQk/edit&quot; style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;Перемещение (сдвиг) камеры&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; vertical-align: baseline&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://edu.mmcs.sfedu.ru/pluginfile.php/13172/mod_resource/content/11/3D%20%D0%90%D1%84%D1%84%D0%B8%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B5%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf&quot; style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;Вращение камеры&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; vertical-align: baseline&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="40" y="840" width="480" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-12" value="&lt;font color=&quot;#cccccc&quot;&gt;4&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;Создавать новые камеры, переключаться между установленными камерами и удалять камеры. Переключение между камерами для пользователя выглядят как переходы между позициями наблюдения за сценой.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-12" value="&lt;font color=&quot;#cccccc&quot;&gt;4&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;Создавать новые камеры, переключаться между установленными камерами и удалять камеры. Переключение между камерами для пользователя выглядят как переходы между позициями наблюдения за сценой.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="40" y="920" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-13" value="&lt;font color=&quot;#cccccc&quot;&gt;5&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;Редактировать&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D0%BA%D0%B0&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;полигональную сетку&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;текущей 3D-модели: добавлять, удалять и редактировать полигоны.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-13" value="&lt;font color=&quot;#cccccc&quot;&gt;5&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;Редактировать&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D0%BA%D0%B0&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;полигональную сетку&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;текущей 3D-модели: добавлять, удалять и редактировать полигоны.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="40" y="1040" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-14" value="&lt;font color=&quot;#cccccc&quot;&gt;6&amp;nbsp;&lt;span style=&quot;background-color: transparent ; font-size: 10pt ; text-align: justify ; font-family: &amp;#34;arial&amp;#34;&quot;&gt;Редактировать источники света в текущей сцене: добавлять, удалять источники света и редактировать их свойства.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-14" value="&lt;font color=&quot;#cccccc&quot;&gt;6&amp;nbsp;&lt;span style=&quot;background-color: transparent ; font-size: 10pt ; text-align: justify ; font-family: &amp;#34;arial&amp;#34;&quot;&gt;Редактировать источники света в текущей сцене: добавлять, удалять источники света и редактировать их свойства.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="40" y="1160" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-15" value="&lt;font color=&quot;#cccccc&quot;&gt;7&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;Запускать фотореалистичный рендер загруженной сцены с выбранной камеры с учётом всех источников света: на базе классического&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://www.pbr-book.org/3ed-2018/Introduction/Photorealistic_Rendering_and_the_Ray-Tracing_Algorithm.html&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;Ray-Tracing&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-15" value="&lt;font color=&quot;#cccccc&quot;&gt;7&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;Запускать фотореалистичный рендер загруженной сцены с выбранной камеры с учётом всех источников света: на базе классического&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://www.pbr-book.org/3ed-2018/Introduction/Photorealistic_Rendering_and_the_Ray-Tracing_Algorithm.html&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;Ray-Tracing&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="40" y="1280" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-16" value="&lt;font color=&quot;#cccccc&quot;&gt;8&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;Сохранять в файл результат фотореалистичного рендеринга (в формате BMP)&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-16" value="&lt;font color=&quot;#cccccc&quot;&gt;8&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;Сохранять в файл результат фотореалистичного рендеринга (в формате BMP)&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="40" y="1400" width="480" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-17" value="&lt;font color=&quot;#cccccc&quot;&gt;9&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;Сохранять в файл отредактированную 3D-модель&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-17" value="&lt;font color=&quot;#cccccc&quot;&gt;9&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;Сохранять в файл отредактированную 3D-модель&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="40" y="1480" width="480" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-18" value="Загрузить модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-18" value="Загрузить модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-19" value="Сохранить модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-19" value="Сохранить модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-20" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-20" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="605" y="600" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-21" value="Просмотреть модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-21" value="Просмотреть модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-22" value="Рендер моделей" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-22" value="Рендер моделей" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="760" y="600" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-23" value="Отобразить модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-23" value="Отобразить модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="720" y="800" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-24" value="Камера" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-24" value="Камера" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="920" y="600" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-25" value="Отобразить модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-25" value="Отобразить модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="880" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-26" value="Переместить камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-26" value="Переместить камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-27" value="Повернуть камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-27" value="Повернуть камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="880" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-28" value="Изменить координаты XYZ" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="880" y="840" width="120" height="40" as="geometry" />
+        <mxCell id="02xShw5wt8kBJDCVwm3q-28" value="Изменить координаты вдоль осей XYZ" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="875" y="830" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-29" value="Повернуться вокруг осей XYZ" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-29" value="Повернуться вокруг осей XYZ" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="880" y="880" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-30" value="Создать камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-30" value="Создать камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-31" value="Активировать камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-31" value="Активировать камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-32" value="Удалить камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-32" value="Удалить камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-33" value="Активироваться" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-33" value="Активироваться" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="880" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-34" value="Создать полигон" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-34" value="Создать полигон" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="1040" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-35" value="Изменить полигон" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-35" value="Изменить полигон" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-36" value="Удалить полигон" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-36" value="Удалить полигон" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-37" value="Создать источник света" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-37" value="Создать источник света" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-38" value="Изменить источник света" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-38" value="Изменить источник света" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="1200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-39" value="Удалить источник света" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-39" value="Удалить источник света" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-40" value="Запустить рендер" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-40" value="Запустить рендер" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-41" value="Определить активную камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-41" value="Определить активную камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-42" value="Определить активную камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-42" value="Определить активную камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="720" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-45" value="Реалистичный рендер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-45" value="Реалистичный рендер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="1080" y="600" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-46" value="Получить источники света" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-46" value="Получить источники света" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-47" value="Сформировать фотоизображение" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-47" value="Сформировать фотоизображение" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02xShw5wt8kBJDCVwm3q-48" value="Сохранить в файл *.bmp" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="02xShw5wt8kBJDCVwm3q-48" value="Сохранить в файл *.bmp" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1400" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="trzJIqP9E-C6L3FmeB0V" name="Page-2">
+    <mxGraphModel dx="815" dy="1378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="1rr0mnJ2ib_KETlL_Ocm-0" />
+        <mxCell id="1rr0mnJ2ib_KETlL_Ocm-1" parent="1rr0mnJ2ib_KETlL_Ocm-0" />
+        <mxCell id="9Kh35b6ljL96uKqvX055-0" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="210" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-1" value="Загрузить сцену" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;fillColor=#CDA2BE;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="460" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-2" value="Просмотреть сцену" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="260" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-3" value="Сдвинуть камеру" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="420" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-4" value="Вращать камеру" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-5" value="Создать камеру" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="460" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-6" value="Изменить сцену" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="460" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-7" value="Управлять освещением" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="260" y="661" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-8" value="Рендерить схему" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="580" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-9" value="Сохранить результат в BMP" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="740" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-10" value="Управлять камерами" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="260" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-11" value="Создать источник" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="460" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-12" value="Изменить камеру" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="460" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-13" value="Удалить камеру" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="460" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-14" value="Изменить позицию" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-15" value="Вращать камеру" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-16" value="Изменить источник" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="460" y="661" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-17" value="Активировать" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-18" value="Управлять сценой" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="260" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-19" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="9Kh35b6ljL96uKqvX055-0" target="9Kh35b6ljL96uKqvX055-18" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="460" as="sourcePoint" />
+            <mxPoint x="300" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-20" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="9Kh35b6ljL96uKqvX055-0" target="9Kh35b6ljL96uKqvX055-10" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243" y="446" as="sourcePoint" />
+            <mxPoint x="330" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-21" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="9Kh35b6ljL96uKqvX055-7" target="9Kh35b6ljL96uKqvX055-0" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="710" as="sourcePoint" />
+            <mxPoint x="250" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-22" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="9Kh35b6ljL96uKqvX055-10" target="9Kh35b6ljL96uKqvX055-12" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="470" y="600" as="sourcePoint" />
+            <mxPoint x="627.5735931288071" y="815.8578643762689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-23" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="9Kh35b6ljL96uKqvX055-10" target="9Kh35b6ljL96uKqvX055-5" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="420" y="490" as="sourcePoint" />
+            <mxPoint x="517.5735931288071" y="555.8578643762689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-24" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="9Kh35b6ljL96uKqvX055-18" target="9Kh35b6ljL96uKqvX055-36" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="430" y="460" as="sourcePoint" />
+            <mxPoint x="460" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-25" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="9Kh35b6ljL96uKqvX055-18" target="9Kh35b6ljL96uKqvX055-6" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="497.57359312880715" y="505.85786437626894" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-26" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="9Kh35b6ljL96uKqvX055-18" target="9Kh35b6ljL96uKqvX055-1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="440" as="sourcePoint" />
+            <mxPoint x="507.57359312880715" y="505.85786437626894" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-27" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="9Kh35b6ljL96uKqvX055-12" target="9Kh35b6ljL96uKqvX055-17" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="700" y="470" as="sourcePoint" />
+            <mxPoint x="797.5735931288071" y="535.8578643762689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-28" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="9Kh35b6ljL96uKqvX055-12" target="9Kh35b6ljL96uKqvX055-14" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="640" as="sourcePoint" />
+            <mxPoint x="807.5735931288071" y="705.8578643762689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-29" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="9Kh35b6ljL96uKqvX055-12" target="9Kh35b6ljL96uKqvX055-15" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="760" y="410" as="sourcePoint" />
+            <mxPoint x="857.5735931288071" y="475.85786437626894" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-30" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="9Kh35b6ljL96uKqvX055-10" target="9Kh35b6ljL96uKqvX055-13" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="680" as="sourcePoint" />
+            <mxPoint x="540" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-31" value="Удалить источник" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="460" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-32" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="9Kh35b6ljL96uKqvX055-7" target="9Kh35b6ljL96uKqvX055-11" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="-0.6828" y="117" width="160" relative="1" as="geometry">
+            <mxPoint x="820" y="820" as="sourcePoint" />
+            <mxPoint x="917.573593128807" y="885.8578643762689" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-33" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="9Kh35b6ljL96uKqvX055-7" target="9Kh35b6ljL96uKqvX055-16" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="770" y="810" as="sourcePoint" />
+            <mxPoint x="867.573593128807" y="875.8578643762689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-34" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="9Kh35b6ljL96uKqvX055-7" target="9Kh35b6ljL96uKqvX055-31" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="750" y="820" as="sourcePoint" />
+            <mxPoint x="847.573593128807" y="885.8578643762689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-35" value="Запустить рендер" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-36" value="Изменить сцену" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;fillColor=#CDA2BE;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="460" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-37" value="&lt;div&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; vertical-align: baseline&quot;&gt;1. Загружать полигональные 3D-модели и сцены из файлов в формате&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/.3ds&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;3DS&lt;/span&gt;&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="140" y="780" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-38" value="&lt;font color=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;2. Просматривать загруженные 3D-модели и сцены из файлов на экране. Задача рендера моделей — работать через&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://stratum.ac.ru/education/textbooks/kgrafic/additional/addit21.html&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;алгоритм буфера глубины (Z-buffer)&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;. Важно также использовать&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://stratum.ac.ru/education/textbooks/kgrafic/lection04.html&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;перспективную проекцию&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;. Затенение от&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D1%81%D0%B2%D0%B5%D1%82%D0%B0#%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D1%81%D0%B2%D0%B5%D1%82%D0%B0_%D0%B2_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0%D1%85&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;источников света&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;должно осуществляться по&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://www.ixbt.com/video/light-model-gourad.html&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;алгоритму закраски Гуро&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="140" y="860" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-39" value="&lt;font color=&quot;#cccccc&quot;&gt;3&amp;nbsp;&lt;span style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; vertical-align: baseline&quot;&gt;При этом пользователь должен иметь возможность при просмотре выполнять некоторые действия с камерой. Камера в этом контексте — совокупность позиции наблюдателя и направления его взгляда.&lt;/span&gt;&lt;a href=&quot;https://docs.google.com/document/d/1evQga04KTh4BFw5G-h9LKkjcdc-0_eYT4k9dFrsVKQk/edit&quot; style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;Перемещение (сдвиг) камеры&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; vertical-align: baseline&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://edu.mmcs.sfedu.ru/pluginfile.php/13172/mod_resource/content/11/3D%20%D0%90%D1%84%D1%84%D0%B8%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B5%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf&quot; style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;Вращение камеры&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;text-align: justify ; background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; vertical-align: baseline&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="140" y="940" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-40" value="&lt;font color=&quot;#cccccc&quot;&gt;4&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;Создавать новые камеры, переключаться между установленными камерами и удалять камеры. Переключение между камерами для пользователя выглядят как переходы между позициями наблюдения за сценой.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="140" y="1020" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-41" value="&lt;font color=&quot;#cccccc&quot;&gt;5&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;Редактировать&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D0%BA%D0%B0&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;полигональную сетку&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;текущей 3D-модели: добавлять, удалять и редактировать полигоны.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="140" y="1140" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-42" value="&lt;font color=&quot;#cccccc&quot;&gt;6&amp;nbsp;&lt;span style=&quot;background-color: transparent ; font-size: 10pt ; text-align: justify ; font-family: &amp;#34;arial&amp;#34;&quot;&gt;Редактировать источники света в текущей сцене: добавлять, удалять источники света и редактировать их свойства.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="140" y="1260" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-43" value="&lt;font color=&quot;#cccccc&quot;&gt;7&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;Запускать фотореалистичный рендер загруженной сцены с выбранной камеры с учётом всех источников света: на базе классического&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://www.pbr-book.org/3ed-2018/Introduction/Photorealistic_Rendering_and_the_Ray-Tracing_Algorithm.html&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent&quot;&gt;&lt;span style=&quot;font-size: 10pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;Ray-Tracing&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; text-align: justify ; background-color: transparent ; vertical-align: baseline&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="140" y="1380" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-44" value="&lt;font color=&quot;#cccccc&quot;&gt;8&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;Сохранять в файл результат фотореалистичного рендеринга (в формате BMP)&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="140" y="1500" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-45" value="&lt;font color=&quot;#cccccc&quot;&gt;9&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: justify&quot;&gt;Сохранять в файл отредактированную 3D-модель&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#CCCCCC;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="140" y="1580" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-46" value="Загрузить модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-47" value="Сохранить модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="1580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-48" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="705" y="700" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-49" value="Просмотреть модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-50" value="Рендер моделей" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="860" y="700" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-51" value="Отобразить модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="820" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-52" value="Камера" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="1180" y="480" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-53" value="Отобразить модель" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="1260" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-54" value="Переместить камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-55" value="Повернуть камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-56" value="Изменить координаты вдоль осей XYZ" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="1260" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-57" value="Повернуться вокруг осей XYZ" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="1260" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-58" value="Создать камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="1020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-59" value="Активировать камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="1060" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-60" value="Удалить камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-61" value="Активироваться" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="1270" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-62" value="Создать полигон" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-63" value="Изменить полигон" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="1180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-64" value="Удалить полигон" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="1220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-65" value="Создать источник света" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="1260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-66" value="Изменить источник света" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="1300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-67" value="Удалить источник света" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="1340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-68" value="Запустить рендер" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="660" y="1380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-69" value="Определить активную камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="1280" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-70" value="Определить активную камеру" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="820" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-71" value="Реалистичный рендер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="1180" y="750" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-72" value="Получить источники света" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="1280" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-73" value="Сформировать фотоизображение" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="1280" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-74" value="Сохранить в файл *.bmp" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=none;align=center;" vertex="1" parent="1rr0mnJ2ib_KETlL_Ocm-1">
+          <mxGeometry x="1280" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-76" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1rr0mnJ2ib_KETlL_Ocm-1" source="9Kh35b6ljL96uKqvX055-71" target="9Kh35b6ljL96uKqvX055-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="710" as="sourcePoint" />
+            <mxPoint x="1260" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-77" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1rr0mnJ2ib_KETlL_Ocm-1" source="9Kh35b6ljL96uKqvX055-71" target="9Kh35b6ljL96uKqvX055-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="830" as="sourcePoint" />
+            <mxPoint x="1240" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-78" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1rr0mnJ2ib_KETlL_Ocm-1" source="9Kh35b6ljL96uKqvX055-71" target="9Kh35b6ljL96uKqvX055-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="720" as="sourcePoint" />
+            <mxPoint x="1241" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kh35b6ljL96uKqvX055-79" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1rr0mnJ2ib_KETlL_Ocm-1" source="9Kh35b6ljL96uKqvX055-71" target="9Kh35b6ljL96uKqvX055-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="714" as="sourcePoint" />
+            <mxPoint x="1240" y="850" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
